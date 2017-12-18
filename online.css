@@ -1,0 +1,271 @@
+.upperbar{background-color:blue;
+	width:100%;
+	height:100px;
+    
+    font-size:15px;
+
+}
+
+.upperbar li {
+	
+	display:inline;
+	float:right;
+	margin-left:15px;
+
+}
+
+.upperbar li a{
+	color:white;
+	text-decoration:none;
+	letter-spacing:-1.3px;
+
+}
+
+.login h1{
+	font-size:20px;
+	font-family:;
+	color:white;
+	padding:20px 0px 0px 20px;
+}
+
+.login p{
+	font-size:15px;
+	font-family:;
+	background-color:white;
+	color:blue;
+	margin-left:20px;
+	margin-right:20px;
+}
+.login img{
+	width:150px;
+	margin-left:20px;
+	margin-top:50px;
+	height:100px;
+}
+
+.login{
+	
+	height: 400px;
+	width:200px;
+	background-color:blue;
+	margin-left:300px;
+	margin-top:100px;
+}
+
+.login1{
+	height:400px;
+	width:350px;
+    margin-left:500px;
+    margin-top:-400px;
+    border:1px solid grey;
+}
+
+.login1 form{
+	margin-left:10px;
+	margin-top:20px;
+}
+
+.log {
+	font-size:15px;
+	margin-left:280px;
+	margin-top:-40px;
+	text-decoration:none;
+	color:blue;
+}
+
+.log1 {
+	
+	
+	background-color:orange;
+	margin-left: 20px;
+	margin-top:50px;
+	text-align:center;
+	border:1px solid black;
+    width:300px;
+    height:50px;
+    padding:10px;
+    box-sizing:border-box;
+    border-radius:10px;
+}
+
+.log1:hover {
+	box-shadow:2px 2px 2px 2px;
+}
+
+.log1 a{
+	color: white;
+	text-decoration:none;
+}
+
+.log1:hover a{
+color:black;
+}
+
+.log2 {
+	
+	
+	background-color:white;
+	margin-left: 20px;
+	margin-top:20px;
+	text-align:center;
+	border:1px solid black;
+    width:300px;
+    height:50px;
+    padding:10px;
+    box-sizing:border-box;
+    border-radius:10px;
+}
+
+.log2:hover {
+	box-shadow:2px 2px 2px 2px;
+}
+
+.log2 a{
+	color: blue;
+	text-decoration:none;
+}
+
+.log2:hover a{
+    color:black;
+}
+
+.upperbar .flip{
+    color:white;
+    font-size:20px;
+    margin-left:40px;
+    
+    box-sizing: border-box;
+
+}  
+
+.upperbar .icon img{
+	width:30px;
+	height:30px;
+	margin-left:140px;
+	margin-top:20px;
+}
+.upperbar .search{
+	margin-top:-35px;
+	margin-left:180px;
+}
+
+.upperbar .cart{
+	margin-left: 1120px;
+	border:1px solid black;
+	box-shadow:2px 2px 2px 2px;
+	width:100px;
+	height:30px;
+	margin-top:-30px;
+	text-align:center;
+	padding:5px;
+	box-sizing:border-box;
+	color:white;
+}
+.column{
+	column-count:14;
+	column-width: 20px;
+	column-rule:1px solid grey;
+	font-size:12px;
+    text-align:center;
+    letter-spacing: -0.2px;
+    left-margin:10px;
+}
+
+.middlebar{
+	width:100%;
+	height:150px;
+	background-color: blue;
+	margin-top:30px;
+
+}
+.wri{
+	margin-left:180px;
+	margin-top:-150px;
+	font-weight:bold;
+}
+.middlebar p{
+	color:white;
+
+}
+
+#yellow{
+	color:yellow;
+	font-family:algerian;
+
+}
+
+.middlebar .pinch img{
+    width:150px;
+    height:150px;
+}
+.im a{
+	color:white;
+	font-size:13px;
+	text-decoration:none;
+}
+.im img{
+	width:80px;
+	height:80px;
+	border:1px solid blue;
+	border-radius:100%;
+	
+}
+#a{
+	margin-left:400px;	
+	margin-top:-130px;
+}
+#b{
+	margin-left:550px;	
+	margin-top:-125px;
+	
+}
+#c{
+	margin-left:700px;	
+	margin-top:-125px;
+}
+
+#d{
+	margin-left:850px;	
+	margin-top:-125px;
+}
+#e{
+	margin-left:1000px;	
+	margin-top:-120px;
+}
+#f{
+	margin-left:1150px;	
+	margin-top:-105px;
+}
+
+#slipon {
+	margin-top:50px;
+	margin-left:100px;
+}
+  
+.shoes img{
+    width:150px;
+    height:150px;
+    border:1px solid grey;
+    
+}
+.shoes img:hover{
+box-shadow:2px 2px 2px 2px;
+}
+#Sneakers{
+	margin-top:-170px;
+	margin-left:350px;
+}
+ #sandals{
+    margin-top:-170px;
+	margin-left:600px;
+ }
+#wedges{
+    margin-top:-170px;
+	margin-left:850px;
+}
+ 
+ #ballerinas{
+    margin-top:-170px;
+	margin-left:1100px;
+ }
+
